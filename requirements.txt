@@ -1,0 +1,7 @@
+requests
+pandas
+gensim
+spacy
+bs4
+scipy
+tqdm

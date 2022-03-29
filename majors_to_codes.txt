@@ -1,0 +1,33 @@
+Africana Studies:AFST
+American Studies:AMST
+Art History:ARTH
+Asian Studies:ASST
+Biology:BIOL
+Chemistry:CHEM
+Cinema and Media Studies/CAMS:CAMS
+Classics:CLAS
+Cognitive Science:CGSC
+Computer Science/CS:CS
+Economics:ECON
+English:ENGL
+Environmental Studies:ENTS
+French & Francophone Studies:FREN
+Gender, Women's and Sexuality Studies:GWSS
+Geology:GEOL
+German:GERM
+History:HIST
+Latin American Studies:LTAM
+Linguistics:LING
+Mathematics:MATH
+Music:MUSC
+Philosophy:PHIL
+Physics:PHYS
+Political Science/International Relations:POSC
+Psychology:PSYC
+Religion:RELG
+Russian:RUSS
+Sociology and Anthropology:SOAN
+Spanish:SPAN
+Statistics:STAT
+Studio Art:ARTS
+Theater Arts:THEA

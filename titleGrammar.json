@@ -1,0 +1,159 @@
+{
+  "conjunction": ["and", "of"],
+
+  "course_prefix": ["Introduction to", "Study of", "Examining"],
+
+  "AFST" : ["Afro-Futurism: Astral Mythologies and Creation and the Afterlife", "Urban Crime and Punishment", "African Diasporic Traditions", "Race, Space, and Architecture", "History v Hollywood: Black Edition", "Redefining US Southern Literature", "Dance and the Diaspora", "Angela Davis: Political Theory, Activism, and Alliances", "Sacred Cinema: Black Religion and the Movies", "De(colonial) ecologies", "Race and Food Sovereignty", "Black masculinities", "Black Migrations: African American Performance at Home and Abroad"],
+
+  "AMST":["Utopias and Americas", "Contemporary U.S. Poetry and the Ethics of Unknowing", "Performing Masculinity in Global Popular Culture", "Sovereignty, Resistance, and Resilience: Native American Histories to 1865", "Cold War Technocultures", "California: Myths, People, Places", "New Orleans as a Muse: Art in the City", "The Legal History of Asian America", "The Afterlives of Objects: Telling American Histories Through Museums and Material Culture", "History of Native Science in North America", "An American Family and Reality Televsion"],
+
+  "ARTH":["The Art and Archaeology of #ancient_civ#", "The Human Figure in #ancient_civ#", "Photography and Revolutions", "Art and Death in #art_period# Art", "Gods and Art in #ancient_civ#"],
+
+  "ancient_civ": ["the Maya Civilization", "Mesopotamian Civilizations", "Ancient Egypt", "Ancient Greece", "Ancient Rome"],
+
+  "art_period": ["Classical", "Romantic", "Italian Renaissance", "Renaissance", "Neoclassical", "Baroque", "Contemporary", "Impressionist", "Prehistoric", "Surrealist", "Cubist", "Expressionist"],
+
+  "SOAN": ["#AFST#", "#AMST#","Native American Cultures and Contemporary Music", "Dancing Desire in Bollywood Films", "Comparative Perspectives on the Body", "Anti-capitalism, revolution and resistance in the Third World", "Digital Ethnography", "Anthropology of the Law", "Cultures of Contemporary Finance"],
+
+  "CAMS": ["The Role of the #film_object# in Film", "Cinematic Representations of #cams_rep#"],
+
+  "film_object": ["Banlieue", "Dress", "High Heel", "Top Hat", "Bike", "Shark", "Crow"],
+
+  "cams_rep":["Migration After the Fall of the Berlin Wall", "Japanese Internment Camps", "the Holocaust", "Terrorism", "Marriage and Love", "Southeast Asia", "Communist Regimes", "Politics", "The Great Depression", "Environmental Issues", "Journalism", "Coming of Age Stories", "Genocide"],
+
+  "CS": ["#course_prefix# #cs_one#"],
+
+  "MATH": ["#course_prefix# #math_one#"],
+
+  "cs_one": ["Game Design and Development", "Compiler Construction", "Applied Matrix Algorithms for Signal Processing and Machine Learning", "Social Network Analysis", "Computer Vision", "Parallel and Distributed Computing"],
+
+  "math_one":["Discrete Mathematics and Modeling", "Boundary Value Problems", "Fourier Analysis and Optics", "Modern Algebra", "Discrete State Stochastic Processes"],
+
+  "CHEM": ["#chemOne#", "#chemTwo#", "#chemOne# and #chemTwo#", "#course_prefix# #chemOne#"],
+
+  "BIO":["#CGSC", "#bioOne#", "#bioTwo#", "#bioOne# and #bioTwo#", "#bioOne# and #cgscTwo#"],
+
+  "CGSC":["#cgscOne#", "#cgscTwo#", "#cgscOne# and #cgscTwo#", "#course_prefix# #cgscOne#"],
+
+  "chemOne": ["Atmospheric Chemistry", "Quantum Chemistry", "Topics in Organic Chemistry", "Macromolecular Structure and Function", "Chemical Thermodynamics", "Biogeochemical Cycles"],
+
+  "chemTwo": ["DNA Nanotechnology", "Molecular Spectroscopy", "Polymer Chemistry"],
+
+  "bioOne":["Evolution", "Topics in Organic Chemistry", "Advanced Epidemiology", "Diagnostic Microbiology", "Clinical Microbiology","Macromolecular Structure and Function","Human Physiology", "Biogeochemical Cycles", "Ecological Physiology"],
+
+  "bioTwo":["the Biophysics of Diseases", "Nucleic Acids", "the Spread of Viral Diseases", "Coral Reef Ecology", "Cytoskeletal Dynamics", "Mammalian Reproduction Physiology"],
+
+  "cgscOne":["Advanced Neuroscience", "Learning", "Childhood Neural Development"],
+  
+  "cgscTwo":["Primate Social Behavior", "Memory", "the Neurobiology of Anxiety", "the Human Brain"],
+
+  "ENGL": ["Modernism and Forgetting", "Apocalyptic Literature", "Tolkien and Representations in Media", "Screenwriting the Renaissance" , "#course_prefix# Victorian Works", "Marxist Literature and Enactments", "Past and Present Black Screenwriters", "Narcissus and the History of Reflection"],
+
+  "THEA":["Playwrighting the Renaissance", "Narcissus and the History of Reflection", "Why We Wear Masks: Theory and Practice", "Performing Greece", "Solo Performance"],
+
+  "ECON": ["Market Control in #regions#", "Economic Development in #regions#", "City-Building and Money in #regions#"],
+
+  "regions": ["Sub-saharan Africa", "OPEC Countries", "Southeast Asia", "Eastern Europe", "South America", "Central America", "Western Europe", "Scandinavian Countries", "the Middle East"],
+
+  "SPAN":["Spanish #cultureSuffix#", "#spn_artist#: Aesthetics and Theory"],
+
+  "ASST":["Chinese #cultureSuffix#", "Japanese #cultureSuffix#", "Malaysian #cultureSuffix#", "Thai #cultureSuffix#"],
+
+  "RUSS":["Russian #cultureSuffix#"],
+
+  "GERM": ["German #cultureSuffix#"],
+
+  "FREN": ["French #cultureSuffix#"],
+
+  "cultureSuffix":["Comic Book Art", "Cinema in the Modern Day", "Folklore", "Media Analysis and Propaganda History", "Identity in Music", "Perspectives on Race, Gender, and Pop Culture"],
+
+  "spn_artist":["Borges", "Gabriel Garcia Marquez", "Neruda", "Julia Alvarez", "Allende"],
+
+  "ARTS":["#artThing# Painting", "#artThing# Printmaking", "Metalsmithing", "#artThing# Drawing", "Engraving", "Sculpture"],
+
+  "artThing":["Still Life", "Portrait", "Object", "Life", "Architectural", "Abstract", "Geometric"],
+
+  "STAT": ["Exploring #statsthing#", "Understanding #statsThing#", "Applying Statistics to #otherField#"],
+
+  "otherField": ["Data Visualization", "the #scienceType# Sciences", "Literary Theory", "Music"],
+
+  "scienceType": ["Biological", "Health", "Physical", "Chemical"],
+
+  "statsThing": ["R", "Confidence Intervals", "Hypothesis Tests", "ANOVA", "Data Science", "Regression Analysis", "Sampling Techniques", "Modeeling", "Bayesian Statistics"],
+
+  "RELG": ["#relgWord# and the #relgPrefix# Landscape", "The #relgPrefix# #relgWord#", "#relgWord# and #relgWord#"],
+
+  "relgPrefix":["Understanding", "American", "Native American", "Indian", "Japanesee", "Jewish", "Queer", "Catholic"],
+
+  "relgWord":["Christianity", "Religion", "Judaism", "Islam", "Culture", "Buddhism", "Hinduism", "Bible", "Jesus", "Beginnings", "Orthodoxy", "Question", "Faith", "Doubt", "Modern Age", "Justice", "Responsibility", "Gender", "Self", "Martyrdom", "Theologies", "Power", "Sacret Texts", "Resistance"],
+
+  "PSYC":["#psychPrefix# Psychology#Lab#", "The Psychology of #psychSuffix##Lab#", "#psychPrefix# Behavior#Lab#"],
+
+  "Lab":[" Lab", ""],
+
+  "psychPrefix":["Child", "Speech", "Linguistic", "Behavioral", "Statistics for"],
+
+  "pyschSuffix":["Academics", "Sleep", "Catastropy", "Kindness", "Principles"],
+
+  "POSC": ["#poliSciPrefix# #PoliSciPrefix# #poliSciWord#", "#poliSciPrefix# #poliSciWord#", "#poliSciWord# and #poliSciWords#", "Democritization in #regions# Post Cold War", "Election Forensics in #regions#", "Contemporary Issues in #regions#", "Sports and Politics", "Identity Politics"],
+
+  "poliSciPrefix": ["Political", "Urban", "Global", "State", "Revolutionary", "Social", "Theoretical", "Environmental", "Economical", "National", "International", "World", "Philosophical", "Foreign", "Contemporary"],
+
+  "poliSciWord":["Democracy", "Dictatorship", "Republic", "Policy", "Liberty", "Equality", "Philosophy", "Politics", "International Relations", "Power", "Tools", "Memory", "Sustainability", "Changes", "Economy"],
+
+  "PHYS":["#physicsPrefix# #physicsWord#", "#physicsWord# and #physicsWord#"],
+
+  "physicsPrefix":["Relativity", "Contemporary", "Experimental", "Advanced", "Solid State", "Neutrino", "Photon", "Vector"],
+
+  "physicsWord":["Mechanics", "Waves", "Relativity", "Astrophysics", "Electricity", "Magneticism", "Physics", "Inertia", "Kinematics", "Entropy"],
+
+  "PHIL": ["#philoWord# and #philoWord#", "#philoPrefix# #philoWord#", "#philoWord#: #philoWord# and #philoWord#", "#philoWord#, #philoWord#, and #philoPrefix# #philoWord#", "#philoWord# of #philoWord#"],
+
+  "philoPrefix": ["Conspiracy", "Virtue", "Individual", "Political", "Ethical", "Philosophical", "Skeptical", "Dogmatic"],
+
+  "philoWord": ["Identity", "Leadership", "Metaphysics", "Kant", "Existentialism", "Dogma", "Theories", "Ethics", "Rationality", "Science", "Faith", "Utopia", "Mind", "Matter", "Consciousness", "Community", "Dilemma", "Skepticism", "Morality", "Problems", "Human Condition", "Sex", "Philosophy", "Sophist", "Philosopher", "Bias", "Belief", "Logic", "Selfhood", "Alienation", "Nietzsche", "Foucault", "Truth", "Power", "History", "Love", "Friendship"],
+
+  "MUSC":["#musicWord# Fundamentals", "#musicStyle# in the #year#", "#musicWord# Workshop", "#musicStyle# Workshop", "#musicWord# and #musicWord#"],
+
+  "musicStyle":["Hip-Hop", "Jazz", "Classical", "Pop", "R & B", "Rock", "Folk", "Blues", "Country", "Soul", "Heavy Metal","Reggae"],
+
+  "year":["19#decade##decade#", "20#decade##decade#", "18#decade##decade#", "17#decade##decade#"],
+
+  "decade":["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"],
+
+  "musicWord":["Music", "Listening", "Movies", "Composition", "Piano", "Flute", "Cello", "Violin", "Viola", "Guitar", "Voice", "Classical String Bass", "Oboe", "Clarinet", "Saxophone", "Basoon", "Trumpet", "Trombone", "Tuba", "Drums", "Harp", "Harpsichord", "Organ", "Improvisation", "Instrumental", "Vocal", "Sitar"],
+
+  "LING":["#lingWord# and #lingWord#", "The Theory of #lingWord#", "Introduction to #lingWord#", "#lingWord# of Language", "#lingType# Linguistics"],
+  
+  "lingType":["Theoretica", "Cognitive", "Generative", "Quantitative", "Formal", "Descriptive", "Historical", "Anthropological", "Applied", "Computational", "Forensic", "Evolutionary"],
+
+  "lingWord": ["Syntax", "Language", "Theory", "Linguistics", "Morphology", "Grammar", "Phonology", "Lexicology", "Semantics", "Pragmatics"],
+
+  "LTAM": ["Latin American #ltamWord#", "Introduction to the Cultures of Latin America", "Spanish in Film: An Introduction to the New Latin American Cinema", "History and Culturee of Cuba", "Colonial Latin America", "Contemporary Spanish Carribean Literature", "Radical Cinemas of Latin America", "Gender Politics in Latin American Cinema", "Science and Fiction in Spanish American Narrative"],
+
+  "ltamWord": ["Music", "Culture", "Food", "Identity", "History"],
+
+  "HIST": ["#location#'s #histWord#", "#histWord# and #histWord#", "#histWord# in #location#"],
+
+  "location":["Africa", "China", "France", "The Moderrn World", "Russia", "The Atlantic World", "America", "Latin America", "Modern Europe"],
+
+  "histWord":["Foundations", "Identity", "Immigrants", "Environmental History", "Politics", "Protest", "Revolutions", "Revolutionaries", "Music", "Movement", "Modern World", "Gender and Ethics"],
+
+  "GEOL":["#course_prefix# #geoWord#", "#geoWord# and #geoWord#", "#geoPrefix# #geoWord#"],
+
+  "geoPrefix":["Physical", "Structural", "Quarternary", "Evolutionary", "Igneous", "Glacial", "Marine", "Archaeological", "Coastal", "Cenozoic", "Comparative", "Terrestrial", "Lunar", "Continental", "Theoretical", "Volcanic", "Dynamic", "Planetary", "Estuary", "Tectonic", "Sedimentary"],
+
+  "geoWord":["Climate Science", "Geology", "Paleobiology", "Petrology", "Continental Drift", "Abrasion", "Anticline", "Cementation", "Continental Shelf", "Crater", "Deformation", "Deposition", "Basalt", "Coal", "Chalk", "Strata"],
+
+  "GWSS":["#gwssWord# and #gwssWord# in #gwssWord#", "#gwssPrefix# #gwssWord#", "#gwssWord# and #gwssWord#", "#gwssWord# in #gwssWord#"],
+
+  "gwssPrefix":["Feminist", "Transnational", "Cross-Cultural", "Queer", "Trans", "Beauty", "Race", "Political", "Economic", "Cultural", "Visual"],
+
+  "gwssWord":["Activism", "Gender", "Sexuality", "LGBTQ Studies", "Gender Issues", "Socio-Political Systems", "Methodologies", "Theory", "Race", "Culture", "Feminism", "Scholarship", "Film", "Politics", "Capitalism"],
+  
+  "ENTS":["Topics in #envPrefix# #envWord#", "#coursePrefix# #envWord#", "#envWord# and #envWord#"],
+
+  "envPrefix": ["Global", "Geospatial", "Environmental", "Biodiversity", "Sustainble", "Landscape", "Comparative", "Abrupt"],
+
+  "envWord":["Biodiversity", "Conservation", "Development", "Food", "Systems", "Environment", "Society", "Analysis", "Ethics", "Carbon", "Climate", "Methods", "Ecology", "Anthropology", "Agroecology", "Earth", "Climate Change", "Law and Policy"]
+}
